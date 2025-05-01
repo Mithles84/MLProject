@@ -18,7 +18,7 @@ git push -u origin main -->
 
 
 ## Basics stepts
-
+<!-- 
 1 Create project through reposetory give the project name.
 2 Create the folder with same name as reposetory and create the env and activate then intialise the empty git repo which is hidden folder command is  git init  
 D/MLProject/.git
@@ -43,4 +43,4 @@ D/MLProject/.git
 12 After install MLProject.egginfo created 
 13 git add .
 14 git status
-15 git commit -m "setup"
+15 git commit -m "setup" -->
